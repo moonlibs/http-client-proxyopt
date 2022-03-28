@@ -1,7 +1,7 @@
 package = 'http-client-proxyopt'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/moonlibs/http-client-proxyopt.git',
+    url    = 'git+https://github.com/moonlibs/http-client-proxyopt.git',
     branch = 'master',
 }
 description = {
